@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "subtitle": "subtitle",
+    "title": "为了更好的自己",
+    "subtitle": "迟影的小屋",
     "icon": "http://yoursite.com/images/favicon.ico",
-    "description": "描述123",
+    "description": "一个爱打CTF的菜鸡",
     "home_page_url": "http://yoursite.com",
     "items": [
         {
