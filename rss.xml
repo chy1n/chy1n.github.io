@@ -1,19 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>为了更好的自己</title>
-        <subtitle>迟影的小屋</subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
+        <title>Hexo</title>
         <link>http://example.com</link>
-        <author>
-          <name>chy1n</name>
-        </author>
-        <description>一个爱打CTF的菜鸡</description>
-        <language>zh-CN</language>
+        <description></description>
+        <language>en</language>
         <pubDate>Wed, 01 Mar 2023 19:08:24 +0800</pubDate>
         <lastBuildDate>Wed, 01 Mar 2023 19:08:24 +0800</lastBuildDate>
-        <category term="关键词1" />
-        <category term="关键词2" />
         <item>
             <guid isPermalink="true">http://example.com/2023/03/01/hello-world/</guid>
             <title>Hello World</title>

@@ -1,16 +1,9 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>为了更好的自己</title>
-    <subtitle>迟影的小屋</subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
+    <title>Hexo</title>
     <link href="http://example.com" />
-    <author>
-      <name>chy1n</name>
-    </author>
     <updated>2023-03-01T11:08:24.663Z</updated>
-    <category term="关键词1" />
-    <category term="关键词2" />
     <entry>
         <id>http://example.com/2023/03/01/hello-world/</id>
         <title>Hello World</title>
